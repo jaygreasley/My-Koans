@@ -6,4 +6,4 @@ about_arrays -
 array assignment - 
 hashes - 
 strings - 
-symbols 
+symbols -
